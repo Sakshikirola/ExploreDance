@@ -39,7 +39,7 @@ function FeaturedCourses() {
                   </Link>
                 </div>
               </BackgroundGradient>
-            </div> 
+            </di
           ))}
         </div>
       </div> 
