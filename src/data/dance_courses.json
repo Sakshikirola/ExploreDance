@@ -1,0 +1,64 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Hip Hop Dance Fundamentals",
+      "slug": "hip-hop-dance-fundamentals",
+      "description": "Learn the basics of hip hop dancing with energetic moves, grooves, and freestyle techniques. Perfect for beginners.",
+      "price": 999,
+      "instructor": "Rahul Sharma",
+      "isFeatured": true,
+      "image": "/courses/hip-hop.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Bharatanatyam Beginners Course",
+      "slug": "bharatanatyam-beginners",
+      "description": "Explore the traditional Indian classical dance form Bharatanatyam and learn basic steps, hand gestures, and expressions.",
+      "price": 1499,
+      "instructor": "Priya Nair",
+      "isFeatured": true,
+      "image": "/courses/bharatanatyam.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Bollywood Dance Masterclass",
+      "slug": "bollywood-dance-masterclass",
+      "description": "Learn exciting Bollywood dance moves, expressions, choreography, and techniques inspired by popular Indian songs.",
+      "price": 1199,
+      "instructor": "Neha Kapoor",
+      "isFeatured": true,
+      "image": "/courses/bollywood.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Contemporary Dance Essentials",
+      "slug": "contemporary-dance-essentials",
+      "description": "Discover contemporary dance through fluid movements, body control, balance, flexibility, and creative expression.",
+      "price": 1299,
+      "instructor": "Aarav Mehta",
+      "isFeatured": true,
+      "image": "/courses/contemporary.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Salsa Dance for Beginners",
+      "slug": "salsa-dance-for-beginners",
+      "description": "Learn the fundamentals of salsa dancing, including basic footwork, rhythm, turns, and partner dance techniques.",
+      "price": 899,
+      "instructor": "Ananya Verma",
+      "isFeatured": true,
+      "image": "/courses/salsa.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Jazz Dance Techniques",
+      "slug": "jazz-dance-techniques",
+      "description": "Build confidence and improve your dancing skills with jazz techniques, dynamic movements, coordination, and choreography.",
+      "price": 1399,
+      "instructor": "Arjun Malhotra",
+      "isFeatured": true,
+      "image": "/courses/jazz.jpg"
+    }
+  ]
+}
