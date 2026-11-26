@@ -1,5 +1,6 @@
 import FeaturedCourses from "@/components/FeaturedCourses";
 import HeroSection from "@/components/HeroSection";
+import Instructors from "@/components/Instructors";
 import MovingCards from "@/components/MovingCards";
 import HoverCards from "@/components/ui/HoverCards";
 import WhyChooseUs from "@/components/WhyChooseUs";
@@ -12,6 +13,7 @@ export default function Home() {
         <WhyChooseUs/>
         <MovingCards/>
         <HoverCards/>
+        <Instructors/>
     </main>
   );
 }
