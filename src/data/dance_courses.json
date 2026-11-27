@@ -1,65 +1,64 @@
-
 {
   "courses": [
     {
       "id": 1,
-      "title": "Hip Hop Dance Fundamentals",
-      "slug": "hip-hop-dance-fundamentals",
-      "description": "Learn the basics of hip hop dancing with energetic moves, grooves, and freestyle techniques. Perfect for beginners.",
-      "price": 999,
+      "title": "Full Stack Web Development",
+      "slug": "full-stack-web-development",
+      "description": "Learn HTML, CSS, JavaScript, React, Node.js and databases to build complete, modern web applications from scratch. Perfect for beginners.",
+      "price": "$12",
       "instructor": "Rahul Sharma",
       "isFeatured": true,
-      "image": "/courses/hip-hop.jpg"
+      "image": "/courses/web-development.jpg"
     },
     {
       "id": 2,
-      "title": "Bharatanatyam Beginners Course",
-      "slug": "bharatanatyam-beginners",
-      "description": "Explore the traditional Indian classical dance form Bharatanatyam and learn basic steps, hand gestures, and expressions.",
-      "price": 1499,
+      "title": "Python Programming for Beginners",
+      "slug": "python-programming-beginners",
+      "description": "Start your coding journey with Python. Learn syntax, data structures, functions, and problem-solving through hands-on projects.",
+      "price": "$18",
       "instructor": "Priya Nair",
       "isFeatured": true,
-      "image": "/courses/bharatanatyam.jpg"
+      "image": "/courses/python.jpg"
     },
     {
       "id": 3,
-      "title": "Bollywood Dance Masterclass",
-      "slug": "bollywood-dance-masterclass",
-      "description": "Learn exciting Bollywood dance moves, expressions, choreography, and techniques inspired by popular Indian songs.",
-      "price": 1199,
+      "title": "Data Science & Machine Learning",
+      "slug": "data-science-machine-learning",
+      "description": "Explore data analysis, visualization, and machine learning models using Python, Pandas, NumPy, and Scikit-learn.",
+      "price": "$14",
       "instructor": "Neha Kapoor",
       "isFeatured": true,
-      "image": "/courses/bollywood.jpg"
+      "image": "/courses/data-science.jpg"
     },
     {
       "id": 4,
-      "title": "Contemporary Dance Essentials",
-      "slug": "contemporary-dance-essentials",
-      "description": "Discover contemporary dance through fluid movements, body control, balance, flexibility, and creative expression.",
-      "price": 1299,
+      "title": "Cyber Security Essentials",
+      "slug": "cyber-security-essentials",
+      "description": "Understand network security, ethical hacking, threat detection, and best practices to protect systems and data.",
+      "price": "$15",
       "instructor": "Aarav Mehta",
       "isFeatured": true,
-      "image": "/courses/contemporary.jpg"
+      "image": "/courses/cyber-security.jpg"
     },
     {
       "id": 5,
-      "title": "Salsa Dance for Beginners",
-      "slug": "salsa-dance-for-beginners",
-      "description": "Learn the fundamentals of salsa dancing, including basic footwork, rhythm, turns, and partner dance techniques.",
-      "price": 899,
+      "title": "Cloud Computing with AWS",
+      "slug": "cloud-computing-with-aws",
+      "description": "Learn cloud fundamentals, including servers, storage, networking, deployment, and scaling applications on AWS.",
+      "price": "$11",
       "instructor": "Ananya Verma",
       "isFeatured": true,
-      "image": "/courses/salsa.jpg"
+      "image": "/courses/cloud-computing.jpg"
     },
     {
       "id": 6,
-      "title": "Jazz Dance Techniques",
-      "slug": "jazz-dance-techniques",
-      "description": "Build confidence and improve your dancing skills with jazz techniques, dynamic movements, coordination, and choreography.",
-      "price": 1399,
+      "title": "UI/UX Design Fundamentals",
+      "slug": "ui-ux-design-fundamentals",
+      "description": "Build confidence in designing user-friendly interfaces with wireframing, prototyping, design thinking, and Figma.",
+      "price": "$17",
       "instructor": "Arjun Malhotra",
       "isFeatured": true,
-      "image": "/courses/jazz.jpg"
+      "image": "/courses/ui-ux.jpg"
     }
   ]
 }

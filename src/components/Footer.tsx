@@ -8,9 +8,9 @@ function Footer() {
         <div>
           <h2 className="text-lg font-bold text-white">About Us</h2>
           <p className="mt-4 leading-7">
-            DanceExplore is a premier platform dedicated to teaching
-            the art and joy of dance. We nurture talent from the ground
-            up, fostering a vibrant community of dancers.
+            TechExplore is a premier platform dedicated to teaching
+            the latest in technology and software skills. We nurture talent from the
+            ground up, fostering a vibrant community of tech learners.
           </p>
         </div>
 
@@ -38,7 +38,7 @@ function Footer() {
           <div className="mt-4 leading-7">
             <p>New Delhi, India</p>
             <p>Delhi 10001</p>
-            <p>Email: info@danceexplore.com</p>
+            <p>Email: info@techexplore.com</p>
             <p>Phone: +91 98765 43210</p>
           </div>
         </div>
@@ -46,7 +46,7 @@ function Footer() {
       </div>
 
       <div className="border-t border-gray-800 mt-10 pt-6 flex items-center justify-center text-center">
-        © 2026 DanceExplore. All Rights Reserved.
+        © 2026 TechExplore. All Rights Reserved.
       </div>
 
     </footer>

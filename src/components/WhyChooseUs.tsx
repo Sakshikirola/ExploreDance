@@ -1,30 +1,28 @@
 "use client";
 import { StickyScroll } from "./ui/sticky-scroll-reveal";
 
-
 const content = [
   {
-    title: "Personalized Dance Learning",
+    title: "Personalized Tech Learning",
     description:
-      "Embark on a dance journey that's uniquely yours. Our personalized learning experience adapts to your individual skills, interests, and goals, helping you discover your potential. Whether you're a beginner or an experienced dancer, we provide the guidance and support you need to grow with confidence."
+      "Embark on a tech journey that's uniquely yours. Our personalized learning experience adapts to your individual skills, interests, and career goals, helping you discover your potential. Whether you're a beginner or an experienced developer, we provide the guidance and support you need to grow with confidence."
   },
   {
     title: "Expert Guidance & Mentorship",
     description:
-      "Learn from passionate and experienced dance instructors who are dedicated to helping you improve. Our structured lessons focus on building strong foundations, mastering techniques, and developing your unique dancing style. Get the right guidance to make every step count."
+      "Learn from passionate and experienced industry professionals who are dedicated to helping you improve. Our structured lessons focus on building strong foundations, mastering modern tools, and developing your own problem-solving style. Get the right guidance to make every line of code count."
   },
   {
     title: "Interactive Learning Experience",
     description:
-      "Immerse yourself in an engaging dance learning experience where practice meets creativity. Explore different dance styles, follow step-by-step lessons, and improve your movements through consistent practice. Make learning enjoyable while developing your rhythm, coordination, and confidence."
+      "Immerse yourself in an engaging learning experience where practice meets creativity. Explore different technologies, follow step-by-step lessons, and build real-world projects through consistent practice. Make learning enjoyable while developing your logic, coding skills, and confidence."
   },
   {
     title: "Live Feedback & Engagement",
     description:
-      "Take your dancing skills to the next level with continuous guidance and meaningful feedback. Understand your strengths, identify areas for improvement, and work on your techniques with confidence. Stay motivated throughout your journey and celebrate every milestone as you progress."
+      "Take your tech skills to the next level with continuous guidance and meaningful feedback. Understand your strengths, identify areas for improvement, and work on your projects with confidence. Stay motivated throughout your journey and celebrate every milestone as you progress."
   }
 ];
-
 
 function WhyChooseUs() {
   return (
