@@ -17,6 +17,10 @@ TechExplore is a modern, responsive website for an online tech learning platform
 
 > The animated effects on this site (3D cards, spotlight, meteors, moving cards and more) are built with components from [Aceternity UI](https://ui.aceternity.com/).
 
+## Live 
+
+Link - https://tech-explore-chi.vercel.app/
+
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
