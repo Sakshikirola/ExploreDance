@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer className="bg-black text-gray-500 py-12 px-6 md:px-10">
 
-      <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 lg:gap-16">
+      <div className="max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 lg:gap-16">
         <div>
           <h2 className="text-lg font-bold text-white">About Us</h2>
           <p className="mt-4 leading-7">
