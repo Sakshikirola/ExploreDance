@@ -1,33 +1,33 @@
 import { AnimatedTooltip } from "./ui/animated-tooltip";
-import { WavyBackground } from "./ui/wavy-background";
+import { WavyBackground } from "./ui/wavy-background"; 
 
 
 const people = [
   {
     id: 1,
     name: "Arjun Mehta",
-    designation: "Professional Musician",
+    designation: "Hip Hop Dance Instructor",
     image:
-      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=800&q=80",
+      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=800&q=80", 
   },
   {
     id: 2,
     name: "Priya Sharma",
-    designation: "Vocal Music Instructor",
+    designation: "Bollywood Dance Instructor",
     image:
       "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=800&q=80",
   },
   {
     id: 3,
     name: "Rahul Kapoor",
-    designation: "Music Producer",
+    designation: "Contemporary Dance Choreographer",
     image:
       "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=800&q=80",
   },
   {
     id: 4,
     name: "Ananya Verma",
-    designation: "Songwriter & Composer",
+    designation: "Classical Dance Performer",
     image:
       "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=800&q=80",
   },
